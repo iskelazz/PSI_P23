@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P23.Rivera</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="default_url">https://fic.udc.es</string>
+    <string name="but_A_str">Bot A</string>
+    <string name="but_B_str">Bot B</string>
+    <string name="but_C_str">Bot C</string>
+    <string name="but_D_str">Bot D</string>
+</resources>
